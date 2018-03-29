@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Diseño de Sitios Web</title>
+		<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	</head>
+
+	<body>
+
+		
+<p>Este es el primer trabajo para el curso de Diseño de sitios Web.</p>
+
+	
+</body>
+
+	<footer>
+
+		<strong>Copyright &copy; 2018 <a href="#">UNAD - Ricardo Salinas</a>.</strong> Todos los derechos reservados
+
+	</footer>
+</html
